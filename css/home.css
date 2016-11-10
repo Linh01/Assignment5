@@ -1,0 +1,199 @@
+@charset "utf-8";
+
+body {
+	font-family: 'Trirong', serif;
+	margin: 0 auto;
+}
+
+#content {overflow: auto;}
+#about, #menu {
+	margin: 1%;
+}
+
+h1 {
+	font-family: 'Trirong', serif;
+	color: black;
+}
+
+#header p {
+	color: white;
+}
+
+#header h1 {
+	color: white;
+}
+
+
+#header {
+	background-image: url(file:///F:/A-S%20345/Assignment%20%235/images/Pho_Main_Banner.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	padding-top: 300px;
+	padding-bottom: 300px;
+}
+
+.navbar {
+	display: inline;
+	float: right;
+	overflow: hidden;
+	text-align: left;
+	text-decoration: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	padding: 14px 16px;
+}
+
+.home {
+	display: inline;
+	float: left;
+	overflow: hidden;
+	text-align: left;
+	text-decoration: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	color: white;
+	padding: 14px 16px;
+}
+
+a.menubutton {
+	display: block;
+	float: center;
+	overflow: hidden;
+	text-align:center;
+	text-decoration: none;
+	list-style-type: none;
+	padding: 0;
+	color: black;
+	padding: 14px 16px;
+	margin-bottom: 5%;
+}
+
+a.reservation {
+	display: block;
+	float: center;
+	overflow: hidden;
+	text-align:center;
+	text-decoration: none;
+	list-style-type: none;
+	padding: 0;
+	color: black;
+	padding: 14px 16px;
+	margin-bottom: 5%;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+
+li {
+	float: right;
+}
+
+li a {
+	display: inline;
+	color: white;
+	text-align: right;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+	width: 100%;
+}
+
+h1, h2, p {
+	text-align: center;
+}
+
+#about {
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#menu {
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+}
+
+img.roll {
+	max-width: 50%;
+	width: 25%;
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+img.noodles {
+	max-width: 50%;
+	width: 25%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+img.pho {
+	max-width: 50%;
+	width: 25%;
+	margin-right: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+img.buns {
+	max-width: 50%;
+	width: 33%;
+	margin-left: 15%;
+	margin-right: 1%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+img.skillet {
+	max-width: 50%;
+	width: 33%;
+	margin-right: 15%;
+	margin-left: 1%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.location {
+	width: 32%;
+	float: left;
+	margin-left: 15%;
+	margin-right: 5%;
+	margi-top: 5%;
+	margin-bottom: 5%;
+}
+
+.hours {
+	margin-right: 15%;
+	margin-left: 5%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	padding: 1px 1px;
+}
+
+#footer {
+	height: 385px;
+	margin-bottom: 0px auto;
+	background-color: #676767;
+	padding-bottom: 28px;
+}
