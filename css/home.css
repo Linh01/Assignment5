@@ -25,7 +25,7 @@ h1 {
 
 
 #header {
-	background-image: url(file:///F:/A-S%20345/Assignment%20%235/images/Pho_Main_Banner.jpg);
+	background-image: url(../images/Pho_Main_Banner.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
